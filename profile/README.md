@@ -1,35 +1,38 @@
-# Welcome to OCBoot 👋
+### Hi there! 👋 
 
-### 🚀 The Ultimate OpenCore EFI Database
-We provide maintained and optimized **OpenCore Bootloader** configurations for a wide range of PC hardware. Whether you are using Intel or AMD, Desktop or Laptop, find your perfect match here.
+I have been deeply involved in the Hackintosh scene for many years, accumulating extensive experience in hardware compatibility and bootloader configuration.
 
----
+This organization is where I share my personal collection of **OpenCore (OC) EFI** configurations. 
 
-### 🛠 What We Cover
-*   **Bootloader:** OpenCore (OC)
-*   **Platforms:** Intel (Comet Lake, Coffee Lake, Alder Lake, etc.) & AMD Ryzen
-*   **macOS Versions:** 
-    *   macOS 26 Tahoe
-    *   macOS 15 Sequoia
-    *   macOS 14 Sonoma
-    *   macOS 13 Ventura
-    *   macOS 12 Monterey
-    *   macOS 11 BigSur
-    *   macOS 10.15 Catalina
-    *   macOS 10.14 Mojave
-    *   macOS 10.13 HighSierra
-
-### 📦 Repository Structure
-Our repositories are organized by hardware models. Search for your **Motherboard** or **Laptop Model** in the search bar above to find the specific EFI.
-
-> **Note:** All configurations are strictly for **educational and research purposes only**. Please purchase a real Mac if you need a production-ready environment.
+### 🛠 About This Project
+*   **Real Hardware Verified:** Most of the EFIs hosted here have been tested on actual machines (Real Machines) to ensure stability and functionality.
+*   **Continuous Maintenance:** I actively update these configurations to fix bugs and keep up with the latest macOS versions (Tahoe, Sequoia, Sonoma, etc.).
+*   **Open Source:** Feel free to clone, fork, and use these configurations for your own build.
 
 ---
 
-### 🤝 Support & Sponsorship
-Maintaining 1000+ repositories takes time and coffee! ☕️
-If our EFIs saved your day, consider supporting us:
-*   [PayPal](你的链接)
-*   [Crypto](你的链接)
+### 🚀 Need Professional Help?
+While I provide these EFIs for free, troubleshooting specific hardware issues can be time-consuming.
 
-[🌐 Visit our Official Website](你的网站链接)
+If you are looking for:
+*   **Remote Installation Services** 🖥️
+*   **1-on-1 Technical Support** 🛠️
+*   **Custom EFI Creation** ✨
+
+👉 **Please visit my website:** [**https://ocboot.com**](https://ocboot.com)
+
+---
+
+### 🐛 Issues & Feedback
+If you encounter any bugs with the bootloaders provided here, feel free to **open an Issue** in the corresponding repository. I'll do my best to check and fix them when I have time.
+
+### ☕ Support My Work
+Maintaining thousands of repositories and keeping them up-to-date takes a huge amount of time and energy.
+
+If my EFIs helped you get your Hackintosh running smoothly, **please consider buying me a coffee!** Your support is my biggest motivation to keep this project alive.
+
+*   [💖 Sponsor via PayPal](你的PayPal链接)
+*   [🪙 Sponsor via Bitcoin/ETH](你的加密货币地址)
+
+---
+> *Disclaimer: All content is for educational and research purposes only.*
